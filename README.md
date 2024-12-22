@@ -1,5 +1,5 @@
 # 💫 About Me:
-~ I'm currently working on full stack Data science. <br>~ I'm looking to collaborate on real world data science & ml projects.<br>~ I'm currently learning Data science with artificial intelligence.<br>~ Ask me about Data & Data driven solutions.<br>~ Fun fact is I often start seeing patterns and trends everywhere in daily life. <br>Whether it's analyzing the timing of traffic lights, predicting the fastest checkout line at a grocery store, <br>or figuring out the most "efficient" way to binge-watch my favorite shows,
+~ I'm currently working on full stack Data science. <br>~ I'm looking to collaborate on real world data science & ml projects.<br>~ I'm currently learning Data science with artificial intelligence.<br>~ Ask me about Data & Data driven solutions.<br>~ Fun fact is I often start seeing patterns and trends everywhere in daily life. <br>Whether it's analyzing the timing of traffic lights, predicting the fastest checkout line at a grocery store, <br>or figuring out the most "efficient" way to binge-watch my favorite shows.
 
 
 ## 🌐 Socials:
